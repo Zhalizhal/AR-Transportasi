@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Image_Target_Pesawat" size="300.000000 168.750000" />
+    <ImageTarget name="Image_Target_Motor" size="300.000000 292.464691" />
+    <ImageTarget name="Image_Target_Perahu" size="100.000000 56.250000" />
+    <ImageTarget name="Image_Target_Mobil_polisi" size="300.000000 168.750000" />
+    <ImageTarget name="Image_Target_train" size="300.000000 168.750000" />
+    <ImageTarget name="Image_Target_kapal" size="300.000000 168.750000" />
+    <ImageTarget name="Image_Target_excav" size="300.000000 168.750000" />
+    <ImageTarget name="Image_Target_Bus" size="300.000000 168.750000" />
+    <ImageTarget name="Image_Target_Truck_Tes" size="300.000000 168.750000" />
+  </Tracking>
+</QCARConfig>

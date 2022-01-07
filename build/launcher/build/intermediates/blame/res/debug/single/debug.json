@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\raw_keep_arcore.xml.flat",
+        "source": "C:\\Users\\izal\\.gradle\\caches\\transforms-2\\files-2.1\\b76be2242499111384585aaab6e869f2\\res\\raw\\keep_arcore.xml"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\izal\\.gradle\\caches\\transforms-2\\files-2.1\\b76be2242499111384585aaab6e869f2\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\izal\\Transportasi\\build\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\izal\\Transportasi\\build\\launcher\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    }
+]
